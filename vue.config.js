@@ -33,7 +33,7 @@ module.exports = {
   },
   configureWebpack: {
     output: {
-      filename: 'bundle.js',
+      filename: 'js/bundle.js',
     },
   },
 };
